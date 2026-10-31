@@ -68,5 +68,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 8.93
+  },
+  {
+    "keyword": "Skincare routine complete guide: building a routine for your skin type",
+    "title": "Skincare Routine Complete Guide for Your Skin Type",
+    "description": "Skincare routine complete guide: building a routine for your skin type with steps, product order, common mistakes, and a simple decision framework.",
+    "file": "skincare-routine-complete-guide-building-a-routine-for-your-skin-type.html",
+    "date": "2026-10-31",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.88,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 8.66
   }
 ]
